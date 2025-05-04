@@ -1,0 +1,23 @@
+[
+    {
+        "id": "admin001",
+        "nombre": "Administrador",
+        "correo": "admin@diarioelfaro.cl",
+        "password": "admin123",
+        "tipo": "admin"
+    },
+    {
+        "id": "lector001",
+        "nombre": "Lector Usuario",
+        "correo": "lector@diarioelfaro.cl",
+        "password": "lector123",
+        "tipo": "lector"
+    },
+    {
+        "id": "681024a2be177",
+        "nombre": "hugo01",
+        "correo": "hugoacrocco@gmail.com",
+        "password": "chetito",
+        "tipo": "lector"
+    }
+]
