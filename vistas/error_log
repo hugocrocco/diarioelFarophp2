@@ -1,0 +1,240 @@
+[01-May-2025 20:54:27 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:27 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:32 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:32 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:33 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:33 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:58 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:54:58 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:55:34 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:55:34 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:55:50 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:55:50 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:57:37 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:57:37 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:57:41 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:57:41 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:59:04 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 20:59:04 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:00:42 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:00:42 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:03:10 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:03:10 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:03:17 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:03:17 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:03:34 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:03:34 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:07:53 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:07:53 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:07:55 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:07:55 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:09:51 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:09:51 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:09:56 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:09:56 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:40 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:40 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:45 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:45 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:50 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:50 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:59 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:10:59 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:05 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:05 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:21 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:21 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:38 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:38 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:42 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:42 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:45 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:11:45 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:07 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:07 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:09 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:09 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:40 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:40 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:42 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:42 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:44 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:12:44 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:13:08 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:13:08 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:14:02 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:14:02 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:14:04 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:14:04 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:15:11 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:15:11 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:16:44 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:16:44 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:17:28 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:17:28 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:17:29 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:17:29 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:22:16 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:22:16 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:22:17 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:22:17 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:24:54 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:24:54 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:24:58 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:24:58 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:26:31 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:26:31 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:27:12 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:27:12 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:27:42 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:27:42 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:27:44 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:27:44 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:32:30 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:32:30 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:37:00 America/Santiago] PHP Warning:  require_once(/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php): Failed to open stream: No such file or directory in /home1/hugocroc/public_html/vistas/inicio.php on line 6
+[01-May-2025 21:37:00 America/Santiago] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/hugocroc/public_html/vistas/../controladores/ArticuloController.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/hugocroc/public_html/vistas/inicio.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/hugocroc/public_html/vistas/inicio.php on line 6
